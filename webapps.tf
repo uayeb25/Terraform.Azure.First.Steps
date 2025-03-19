@@ -49,5 +49,4 @@ resource "azurerm_linux_web_app" "webappapi" {
     }
 
     tags = var.tags
-
 }
